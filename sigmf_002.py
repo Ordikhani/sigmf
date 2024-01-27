@@ -2,7 +2,7 @@
 #  Be name KHODA
 #  author   :  Fateme Ordikhani  / FaOrdi
 #  Date     :  23-12-25
-#  Issue    :  payananme code
+#  Issue    :  convert sigmf type data 
 #  Date     :  1402-09-30
 #  Version  :  0.01
 #  Document :  README.md
