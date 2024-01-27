@@ -3,7 +3,6 @@
 #  author   :  Fateme Ordikhani  / FaOrdi
 #  Date     :  23-12-25
 #  Issue    :  convert sigmf type data 
-#  Date     :  1402-09-30
 #  Version  :  1.0.0
 #  Document :  README.md
 
